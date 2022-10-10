@@ -1,0 +1,28 @@
+{
+    "name": "antelope-resource-report",
+    "version": "0.0.0",
+    "description": "Resource report which shows antelope smart contract resources used per unit test.",
+    "main": "index.js",
+    "scripts": {},
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/NatPDeveloper/antelope-resource-report.git"
+    },
+    "keywords": [
+      "Antelope",
+      "smart-contracts",
+      "unit-testing",
+      "resources"
+    ],
+    "author": "NatPDeveloper <github.com/NatPDeveloper>",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/NatPDeveloper/antelope-resource-report/issues"
+    },
+    "homepage": "https://github.com/NatPDeveloper/antelope-resource-report#readme",
+    "dependencies": {
+      "cli-table3": "^0.5.0",
+      "colors": "1.4.0",
+      "markdown-table": "^1.1.3"
+    }
+  }
