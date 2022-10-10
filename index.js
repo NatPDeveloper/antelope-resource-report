@@ -22,6 +22,9 @@
         1. How to determine what contracts to listen for vs other contracts
         2. How to keep array globally for eos-wrapper / firehose
         3. Decode dbOps, rlimitOps, and creationTree
+            a. https://docs.dfuse.eosnation.io/eosio/public-apis/reference/types/dbop/
+            b.
+            c. https://docs.dfuse.eosnation.io/eosio/public-apis/reference/types/creationtree/
 
     Data format:
 
